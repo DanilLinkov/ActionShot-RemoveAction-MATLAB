@@ -1,6 +1,6 @@
 # ActionShot-RemoveAction-MATLAB
 
-Input is a set of images or frames from a video with a static backbround scene where an object is moving through it.
+Input is a set of images or frames from a video with a static background scene where an object is moving through it.
 
 Creates an Action shot that is a single image that features the moving object in different locations in the static scene.
 
