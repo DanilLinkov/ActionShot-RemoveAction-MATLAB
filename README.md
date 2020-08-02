@@ -1,5 +1,7 @@
 # ActionShot-RemoveAction-MATLAB
 
+How to use : run the ImageCombiner.m in Matlab
+
 Input is a set of images or frames from a video with a static background scene where an object is moving through it.
 
 Creates an Action shot that is a single image that features the moving object in different locations in the static scene.
